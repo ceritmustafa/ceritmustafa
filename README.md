@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on: Microsoft Cloud Solution Manager<br>- 🌱 I’m currently learning: DevOps, AI, AWS<br>- 💬 Ask me about …<br>- 📫 How to reach me: mustafacerit@outlook.com
+-🔭 I’m currently working on: Microsoft Cloud Solution Manager<br>- 🌱 I’m currently learning: DevOps, AI, AWS<br>- 📫 How to reach me: mustafacerit@outlook.com
 
 
 ## 🌐 Socials:
